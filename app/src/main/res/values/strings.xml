@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">InClass10</string>
+    <string name="passwordLabel">Password</string>
+    <string name="emaillabel">Email</string>
+    <string name="loginString">Login</string>
+    <string name="newaccountLabel">Create New Account</string>
+    <string name="fullnameLabel">Full Name</string>
+    <string name="signUplabelString">Sign Up</string>
+    <string name="cancelLabel">Cancel</string>
+    <string name="currentExpenseLabel">Current Expenses:</string>
+    <string name="noExpenseLabel">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="addAnExpenseLabel">Add An Expense</string>
+    <string name="expenseNameLabel">Expense Name</string>
+    <string name="categoryLabel">Category</string>
+    <string name="amountLabel">Amount</string>
+    <string name="addExpenseButtonLabel">Add Expense</string>
+    <string name="dateLabel">Date</string>
+    <string name="expenseDetailsLabel">Expense Details</string>
+    <string name="closeLabel">Close</string>
+    <string-array name="category_array">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Others</item>
+    </string-array>
+</resources>
